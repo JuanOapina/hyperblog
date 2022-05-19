@@ -6,6 +6,8 @@ estudio una ingenieria de software en la universidad de antioquia
 
 experimento 1
 
+experimento 2
+
 es un estudiante de platzi
 
 master 2
