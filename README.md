@@ -11,6 +11,7 @@ en este curso vemos de todo:
 * las personalidades multiples de freddy
 * creado por el increible juan
 * incluye ejemplos e windows, linux y mac
+* disponible para todas las edades
 
 Y como es amable recordatorio:**Este readme.md es un chiste**. diseñado para el ejemplo. si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
 
