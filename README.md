@@ -9,6 +9,7 @@ en este curso vemos de todo:
 * El verdadero amor por buenas prácticas
 * trucos muy locos del profesor
 * las personalidades multiples de freddy
+* creado por el increible juan
 
 Y como es amable recordatorio:**Este readme.md es un chiste**. diseñado para el ejemplo. si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
 
