@@ -10,6 +10,7 @@ en este curso vemos de todo:
 * trucos muy locos del profesor
 * las personalidades multiples de freddy
 * creado por el increible juan
+* incluye ejemplos e windows, linux y mac
 
 Y como es amable recordatorio:**Este readme.md es un chiste**. diseñado para el ejemplo. si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
 
